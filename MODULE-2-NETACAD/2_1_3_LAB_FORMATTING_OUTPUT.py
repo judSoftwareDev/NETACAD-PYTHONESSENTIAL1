@@ -1,4 +1,5 @@
 # Sample Solution
+# this is python lab example 1
 
 print("original version:")
 
